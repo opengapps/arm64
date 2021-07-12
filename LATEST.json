@@ -1,6 +1,6 @@
 {
   "arch": "arm64",
-  "date": "20210710",
+  "date": "20210712",
   "assets": [
     { "api": "5.0", "variants": ["pico", "nano"]},
     { "api": "5.1", "variants": ["pico", "nano", "stock", "aroma", "tvmini", "tvstock"]},
@@ -10,6 +10,7 @@
     { "api": "8.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "aroma", "tvmini", "tvstock"]},
     { "api": "8.1", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "aroma", "tvmini", "tvstock"]},
     { "api": "9.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "aroma", "tvmini", "tvstock"]},
-    { "api": "10.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "aroma", "tvmini", "tvstock"]}
+    { "api": "10.0", "variants": ["pico", "nano", "micro", "mini", "full", "stock", "super", "aroma", "tvmini", "tvstock"]},
+    { "api": "11.0", "variants": ["pico", "nano"]}
   ]
 }
